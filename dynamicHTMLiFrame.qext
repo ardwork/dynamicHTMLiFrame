@@ -1,0 +1,9 @@
+{
+	"name" : "Dynamic HTML iFrame",
+	"description" : "Dynamic HTML iFrame extension to allow presentation of content with URL defined by data from the selections made in the application. This could be a web page, a QV object or any other object that is web enabled.",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "bar",
+	"author": "Richard Byard"
+}
